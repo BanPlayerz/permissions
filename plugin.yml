@@ -1,0 +1,9 @@
+name: Permissions
+version: 1.0
+author: BanPlayerz
+main: at.banplayerz.ep.Main
+commands:
+  permissions:
+    aliases: [perm]
+  group:
+    aliases: [rang, rank]
